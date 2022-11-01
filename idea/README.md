@@ -62,6 +62,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 ### Features
 
 * Supports Multilingual _(Hindi,English)_
+* MICR Verification.
 * Checks if a transaction is NEFT or RTGS.
 * Reduce Human Efforts _(By automating process of verification and data updation after processing)
 * Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time )
