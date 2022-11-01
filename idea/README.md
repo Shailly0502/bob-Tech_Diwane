@@ -51,7 +51,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
   ![signature verification](https://raw.githubusercontent.com/fastforwardlabs/signver/main/docs/images/signature_pipeline.png)
   
-   * Extracted __Account Number__ is verified by checking if any user information with this account number exists.
+   * Extracted __Account Number__ is verified by checking if any information of payer with this extracted account number exists.
    * Extracted __MICR Code__ is verifed by checking if leaf number is less than leaf left.
    * __Amount Verification__ is done to check if account contains sufficient amount such that transaction of mentioned amount could take place in future after successful verification of cheque details because _If sufficient amount is present in account then only transaction will take place._
 
