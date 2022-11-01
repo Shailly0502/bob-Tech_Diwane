@@ -67,7 +67,13 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 Information of different payers are stored in the database. 
 It includes:
+* Cheque ID
+* Account Number
+* MICR
+* Current Amount
+* Signature Image
 
+![database image](https://github.com/Shailly0502/Tech-Diwane/blob/b4fef312819a8182b7e3c97a19e105d2d96ccf4f/database.png)
 
 ### Features
 
@@ -78,3 +84,5 @@ It includes:
 * Reduce Human Efforts _(By automating process of verification and data updation after processing)
 * Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time )
 * Detecting Potential Frauds _(Through verification processing)_
+
+### How to use our code?
