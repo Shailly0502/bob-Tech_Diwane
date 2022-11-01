@@ -35,7 +35,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
   
 * _To ensure the genuinity or correctiveness of cheque, extracted Amount in words is converted into numerical form and then that numerical form is compared with Amount in numbers, if it matches then, cheque information is correct and then further process is done_.
 
-   _If 'self' or 'myself' is written in payee name then that transaction is NEFT otherwise it is a RTGS Transaction._
+ __Transaction Type detection__: _If 'self' or 'myself' is written in payee name then that transaction is NEFT otherwise it is a RTGS Transaction._
 
 * After cleaning or extracting useful detection from OCR list, the extracted information of the payer is used to compare with it's existing record information in database __so as to verify if payer is genuine or not__ and _this process is known as __Verification Process__ & is the most crucial part of the whole process._
 
@@ -74,7 +74,7 @@ It includes:
 * Supports Multilingual _(Hindi,English)_
 * MICR Verification.
 * Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque.
-* Checks if a transaction is NEFT or RTGS.
+* Checks if a transaction is NEFT or RTGS(Transaction type detection).
 * Reduce Human Efforts _(By automating process of verification and data updation after processing)
 * Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time )
 * Detecting Potential Frauds _(Through verification processing)_
