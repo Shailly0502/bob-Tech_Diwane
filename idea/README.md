@@ -59,6 +59,11 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 #### _Diagrametic Representation of Complete Workflow_
 
+### Database
+
+Information of different payers are stored in the database. It includes:
+
+
 ### Features
 
 * Supports Multilingual _(Hindi,English)_
