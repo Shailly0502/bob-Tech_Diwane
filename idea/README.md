@@ -63,7 +63,8 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 ### Database
 
-Information of different payers are stored in the database. It includes:
+Information of different payers are stored in the database. 
+It includes:
 
 
 ### Features
