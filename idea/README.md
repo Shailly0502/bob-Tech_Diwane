@@ -33,7 +33,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 ![cheque image](https://github.com/Shailly0502/Tech-Diwane/blob/f6b6ac386f94a1ac83bbad23283a2805e63eccee/cheque.jpeg)
   
-_* To ensure the genuinity of cheque, extracted Amount in words is converted into numerical form and then that numerical form is compared with Amount in numbers, if it matches then, cheque information is correct and then further process is done_.
+* _To ensure the genuinity or correctiveness of cheque, extracted Amount in words is converted into numerical form and then that numerical form is compared with Amount in numbers, if it matches then, cheque information is correct and then further process is done_.
 
 * After cleaning or extracting useful detection from OCR list, the extracted information of the payer is used to compare with it's existing record information in database __so as to verify if payer is genuine or not__ and _this process is known as __Verification Process__ & is the most crucial part of the whole process._
 
