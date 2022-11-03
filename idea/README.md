@@ -22,28 +22,28 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 
 ### Contents
 * <a href="#1"> Demo Vedio </a>
-* <a href="#2"> Workflow 
-  * Input & Transformation
-  * Extraction
-  * Verification
-  * Processing 
-  * </a>
-* <a href="#3"> Database </a>
-* <a href="#4"> Features </a>
-* <a href="#5"> How to use our code? </a>
-* <a href="#6"> Contributors </a>
+*  Workflow
+  *  <a href="#2"> Input & Transformation </a>
+  * <a href="#3"> Extraction </a>
+  * <a href="#4">Verification </a>
+  * <a href="#5"> Processing </a>
+  * <a href="#6"> Diagrametic Representation of Complete Workflow </a>
+* <a href="#7"> Database </a>
+* <a href="#8"> Features </a>
+* <a href="#9"> How to use our code? </a>
+* <a href="#10"> Contributors </a>
 
 
 ### Demo Video <a id="1"> 
 
 </a>
 
-### Workflow <a id="2">
+### Workflow 
 
-* A cheque image is taken as an input & scanned. Then this scanned image is transformed into many different small part where every part contain seperate useful information like signature,amount,account number,payee name,bank name,etc. 
+* <a id="2"> A cheque image is taken as an input & scanned. Then this scanned image is transformed into many different small part where every part contain seperate useful information like signature,amount,account number,payee name,bank name,etc. 
 * These parts are extracted by drawing boxes on those parts of the scanned cheque image that contain useful information, with help of __OpenCV__ and __Geometry.__
-* With the help of __Azure APIs__ these small different parts of the scanned images are sent to __OCR(Optical Character Recognition)__ for  processing information written in these small images.
-* OCR model returns a list of detections and then among that list, there are both useful information and additional informations. Among complete list, detections of only required information are considered(this is  known as __text cleaning or extracting of useful information__).
+* With the help of __Azure APIs__ these small different parts of the scanned images are sent to __OCR(Optical Character Recognition)__ for  processing information written in these small images. </a>
+* <a id="3"> OCR model returns a list of detections and then among that list, there are both useful information and additional informations. Among complete list, detections of only required information are considered(this is  known as __text cleaning or extracting of useful information__).
 
 _Please make a note that Useful information here mean that only that information that is relevant or required for cheque verification and processing._
 
@@ -55,8 +55,10 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
  __Transaction Type detection__: _If 'self' or 'myself' is written in payee name then that transaction is NEFT otherwise it is a RTGS Transaction._
 
-* After cleaning or extracting useful detection from OCR list, the extracted information of the payer is used to compare with it's existing record information in database __so as to verify if payer is genuine or not__ and _this process is known as __Verification Process__ & is the most crucial part of the whole process._
-
+*  _After cleaning or extracting useful detection from OCR list, the extracted information of the payer is used to compare with it's existing record information in database __so as to verify if payer is genuine or not__ and _this process is known as __Verification Process__ & is the most crucial part of the whole process._
+ </a>
+ 
+ <a id="4">
 * For complete verification of payer, verification of different extracted information takes place with the help of ML modules.
 
   * __Signature Verification__ is done with the help of __signver module__ that contains __sub-modules__ such that:
@@ -74,8 +76,14 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
    * __Amount Verification__ is done to check if account contains sufficient amount such that transaction of mentioned amount could take place in future after successful verification of cheque details because _If sufficient amount is present in account then only transaction will take place._
 
  _Only after the successful verification, any processes or transactions(as instructed on cheque like transferring of money to the intended user bank account) takes place._
-
+ 
+ </a>
+ 
+ <a id="5">
 * __After successful cheque processing, the details of the sender gets further updated in the database as per the transaction took place successfully.__
+ 
+ </a>
+ < a id="6">
 
 ![cheque verification](https://github.com/Shailly0502/Tech-Diwane/blob/69f23f6342bee3c180b161ec4146ce7174276da8/astha.png)
 
@@ -83,7 +91,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
   
   </a>
 
-### Database <a id="3">
+### Database <a id="7">
 
 Information of different payers are stored in the database. 
 It includes:
@@ -97,7 +105,7 @@ It includes:
   
   </a>
 
-### Features <a id="4">
+### Features <a id="8">
 
 * Supports Multilingual _(Hindi,English)_
 * MICR Verification.
@@ -109,7 +117,7 @@ It includes:
   
   </a>
 
-### How to use our code? <a id="5">
+### How to use our code? <a id="9">
 
 1. Clone this repository into your system. 
    ##### git clone https://github.com/Shailly0502/bob-Tech_Diwane.git
@@ -119,7 +127,7 @@ It includes:
 
 </a>
 
-## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contributors <a id="6">
+## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contributors <a id="10">
 
 <a href=""> Anubhav Yadav </a> <br>
 <a href="https://www.linkedin.com/in/shailly-r-78562a212"> Shailly Raj </a> <br>
