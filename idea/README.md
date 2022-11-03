@@ -100,7 +100,7 @@ It includes:
 
 ### Contact Us
 
-<a href=""> Anubhav Yadav </a> </br>
+<a href=""> Anubhav Yadav </a> <br>
 <a href=""> Shailly Raj </a> <br>
 <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
 <a href="https://www.linkedin.com/in/goel-astha"> Astha Goel </a>
