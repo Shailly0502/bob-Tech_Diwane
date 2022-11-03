@@ -21,17 +21,17 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 ## Proposed Solution
 
 ### Contents
-* Demo Vedio
+* <a href="#1"> Demo Vedio </a>
 * Workflow
 * Database
 * Features
 * How to use our code?
 * Contributors
 
-
+<a id="1"> 
 ### Demo Video
 
-
+</a>
 ### Workflow
 
 * A cheque image is taken as an input & scanned. Then this scanned image is transformed into many different small part where every part contain seperate useful information like signature,amount,account number,payee name,bank name,etc. 
