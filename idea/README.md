@@ -81,8 +81,8 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
  
  <a id="5">
 * __After successful cheque processing, the details of the sender gets further updated in the database as per the transaction took place successfully.__
- 
  </a>
+ 
  < a id="6">
 
 ![cheque verification](https://github.com/Shailly0502/Tech-Diwane/blob/69f23f6342bee3c180b161ec4146ce7174276da8/astha.png)
