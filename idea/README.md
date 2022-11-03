@@ -108,13 +108,15 @@ It includes:
 
 ### Features <a id="8">
 
-* Supports Multilingual _(Hindi,English)_
-* MICR Verification.
-* Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque.
-* Checks if a transaction is NEFT or RTGS(Transaction type detection).
-* Reduce Human Efforts _(By automating process of verification and data updation after processing)
-* Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time )
-* Detecting Potential Frauds _(Through verification processing)_
+   <img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im">  
+   <ul> <li> Supports Multilingual _(Hindi,English)_ </li>
+      <li> MICR Verification </li>
+<li> Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque. </li>
+      <li> Checks if a transaction is NEFT or RTGS(Transaction type detection) </li>
+<li> Reduce Human Efforts _(By automating process of verification and data updation after processing) </li>
+<li> Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time ) </li>
+<li> Detecting Potential Frauds _(Through verification processing)_ </li>
+   </ul>
   
   </a>
 
