@@ -1,6 +1,5 @@
 ## Add your idea files to this directory. Please don't rename this directory.
 
-
 ### _A solution is provided for the Problem Statement titled as Automated Cheque Processing,in Bank of Baroda Hackathon 2022 hosted on TechGig._
 
 # Provided Problem Statement(Automated Cheque Processing)
