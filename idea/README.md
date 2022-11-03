@@ -95,3 +95,8 @@ It includes:
   
 2. After cloning, inside source folder ,compile and run all files except main.py file.
 3. After that, run main.py file where it will ask to give path of the image of cheque on terminal so enter the path of image.
+
+
+
+### Contact Us
+
