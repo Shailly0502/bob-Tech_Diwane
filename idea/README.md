@@ -102,5 +102,5 @@ It includes:
 
 ![Linkedin](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png width="150" height="280") <a href=""> Anubhav Yadav </a> <br>
 <a href=""> Shailly Raj </a> <br>
-![Amisha Singh](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png) <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
+<img src="https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png" width="100" height="100"> <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
 ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png) <a href="https://www.linkedin.com/in/goel-astha"> Astha Goel </a>
