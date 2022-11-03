@@ -84,7 +84,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
  </a>
  
  
- #### _Diagrametic Representation of Complete Workflow_ < a id="6">
+ #### < a id="6"> _Diagrametic Representation of Complete Workflow_ 
 
 ![cheque verification](https://github.com/Shailly0502/Tech-Diwane/blob/69f23f6342bee3c180b161ec4146ce7174276da8/astha.png) 
   </a>
