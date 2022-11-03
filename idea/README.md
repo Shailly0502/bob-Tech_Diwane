@@ -22,7 +22,12 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 
 ### Contents
 * <a href="#1"> Demo Vedio </a>
-* <a href="#2"> Workflow </a>
+* <a href="#2"> Workflow 
+  * Input & Transformation
+  * Extraction
+  * Verification
+  * Processing 
+  * </a>
 * <a href="#3"> Database </a>
 * <a href="#4"> Features </a>
 * <a href="#5"> How to use our code? </a>
