@@ -100,7 +100,7 @@ It includes:
 
 ### Contact Us
 
-![Linkedin](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png=125*125) <a href=""> Anubhav Yadav </a> <br>
+![Linkedin](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png=250*250) <a href=""> Anubhav Yadav </a> <br>
 <a href=""> Shailly Raj </a> <br>
 ![Amisha Singh](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png) <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
 ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/75e855a19f318370ebc02275ceed6d05cb649e4a/linkedin.png) <a href="https://www.linkedin.com/in/goel-astha"> Astha Goel </a>
