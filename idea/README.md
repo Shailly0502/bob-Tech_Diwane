@@ -133,7 +133,7 @@ It includes:
 
 ## Contributors <a id="10">
    
-<img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png">   
+<img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/9b23c66cb98e04a8d3a638c03d22e528b8e38399/li.png">   
    <ul> <li> <a href=""> Anubhav Yadav </a> </li> 
 <li> <a href="https://www.linkedin.com/in/shailly-r-78562a212"> Shailly Raj </a> </li> 
       <li> <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> </li> 
