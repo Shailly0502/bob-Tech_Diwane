@@ -108,15 +108,14 @@ It includes:
 ## Features <a id="8">
 
    <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/c782ca5a86027019f1d2ae484e0fdac4afe6c1e3/features.webp">  
-   <ul> <li> Supports Multilingual _(Hindi,English)_ </li>
+   <ul> <li> Supports Multilingual <i> (Hindi,English)</i> </li>
       <li> MICR Verification </li>
 <li> Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque. </li>
       <li> Checks if a transaction is NEFT or RTGS(Transaction type detection) </li>
-<li> Reduce Human Efforts _(By automating process of verification and data updation after processing) </li>
-<li> Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time ) </li>
-<li> Detecting Potential Frauds _(Through verification processing)_ </li>
-   </ul>
-  
+<li> Reduce Human Efforts <i> (By automating process of verification and data updation after processing)</i> </li>
+<li> Reduce Processing time <i>(Machine take less time than humans so it fastens the cheque processing time )</i> </li>
+<li> Detecting Potential Frauds <i>(Through verification processing).</i> </li>
+   </ul> 
   </a>
 
 ## How to use our code? <a id="9">
@@ -124,7 +123,7 @@ It includes:
    <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/c782ca5a86027019f1d2ae484e0fdac4afe6c1e3/howtousecode.jpg"> 
    <ul> 
       <li> Clone this repository into your system. <br>
-      git clone https://github.com/Shailly0502/bob-Tech_Diwane.git </li>
+         <i> git clone https://github.com/Shailly0502/bob-Tech_Diwane.git </i></li>
       <li> After cloning, inside source folder ,compile and run all files except main.py file. </li>
 <li>  After that, run main.py file where it will ask to give path of the image of cheque on terminal so enter the path of image. </li> </ul>
 
