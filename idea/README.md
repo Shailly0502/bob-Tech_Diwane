@@ -20,6 +20,10 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 
 ## Proposed Solution
 
+### Contents
+*
+
+
 ### Demo Video
 
 
@@ -98,7 +102,7 @@ It includes:
 
 
 
-## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contact Us
+## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contributors
 
 <a href=""> Anubhav Yadav </a> <br>
 <a href="https://www.linkedin.com/in/shailly-r-78562a212"> Shailly Raj </a> <br>
