@@ -86,5 +86,9 @@ It includes:
 * Detecting Potential Frauds _(Through verification processing)_
 
 ### How to use our code?
-Clone this repository into your system.
-git clone 
+
+1. Clone this repository into your system.
+   git clone https://github.com/Shailly0502/bob-Tech_Diwane.git
+  
+2. After cloning, inside source folder ,compile and run all files except main.py file.
+3. After that, run main.py file where it will ask to give path of the image of cheque on terminal so enter the path of image.
