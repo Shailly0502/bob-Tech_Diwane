@@ -100,3 +100,6 @@ It includes:
 
 ### Contact Us
 
+
+www.linkedin.com/in/amisha-s-a56329200 
+www.linkedin.com/in/goel-astha
