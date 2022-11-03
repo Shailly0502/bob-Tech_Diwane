@@ -89,14 +89,14 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 ### Database <a id="7">
 
- <p> <img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im">  
+ <img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im">  
 Information of different payers are stored in the database. 
 It includes:
    <ul> <li> Cheque ID </li>
       <li>  Account Number </li> 
       <li> MICR </li> 
    <li> Current Amount </li>
- <li> Signature Image </li> </ul> </p>
+ <li> Signature Image </li> </ul>
 
 ![database image](https://github.com/Shailly0502/Tech-Diwane/blob/b4fef312819a8182b7e3c97a19e105d2d96ccf4f/database.png)
   
