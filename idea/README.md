@@ -21,7 +21,12 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 ## Proposed Solution
 
 ### Contents
-*
+* Demo Vedio
+* Workflow
+* Database
+* Features
+* How to use our code?
+* Contributors
 
 
 ### Demo Video
