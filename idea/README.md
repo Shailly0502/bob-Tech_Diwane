@@ -94,9 +94,9 @@ Information of different payers are stored in the database.
 It includes:
    <ul> <li> Cheque ID </li>
       <li>  Account Number </li> 
-      <li> MICR </li> </p>
+      <li> MICR </li> 
    <li> Current Amount </li>
- <li> Signature Image </li> </ul>
+ <li> Signature Image </li> </ul> </p>
 
 ![database image](https://github.com/Shailly0502/Tech-Diwane/blob/b4fef312819a8182b7e3c97a19e105d2d96ccf4f/database.png)
   
