@@ -21,6 +21,8 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 ## Proposed Solution
 
 ### Contents
+
+<img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im">  
 * <a href="#1"> Demo Vedio </a>
 *  Workflow
     *  <a href="#2"> Input & Transformation </a>
