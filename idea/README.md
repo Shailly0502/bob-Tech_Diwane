@@ -101,5 +101,5 @@ It includes:
 ### Contact Us
 
 
-<a href ="www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a>
-<a href="www.linkedin.com/in/goel-astha"> Astha Goel </a>
+<a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
+<a href="https://www.linkedin.com/in/goel-astha"> Astha Goel </a>
