@@ -93,7 +93,7 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 
 ### Database <a id="7">
 
- <img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im">  
+ <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/c782ca5a86027019f1d2ae484e0fdac4afe6c1e3/database.png">  
 Information of different payers are stored in the database. 
 It includes:
    <ul> <li> Cheque ID </li>
