@@ -98,7 +98,7 @@ It includes:
 
 
 
-## ![]("https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contact Us
+## ![Astha Goel]("https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contact Us
 
 <a href=""> Anubhav Yadav </a> <br>
 <a href="https://www.linkedin.com/in/shailly-r-78562a212"> Shailly Raj </a> <br>
