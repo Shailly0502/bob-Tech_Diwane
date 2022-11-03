@@ -86,3 +86,5 @@ It includes:
 * Detecting Potential Frauds _(Through verification processing)_
 
 ### How to use our code?
+Clone this repository into your system.
+git clone 
