@@ -93,11 +93,10 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 Information of different payers are stored in the database. 
 It includes:
 * Cheque ID
-* Account Number
+    * Account Number </p>
 * MICR
 * Current Amount
 * Signature Image
-   </p>
 
 ![database image](https://github.com/Shailly0502/Tech-Diwane/blob/b4fef312819a8182b7e3c97a19e105d2d96ccf4f/database.png)
   
