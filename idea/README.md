@@ -123,10 +123,9 @@ It includes:
 ### How to use our code? <a id="9">
 
    <img align="right" width="100" height="100" src="https://www.google.com/imgres?imgurl=https://cdn-icons-png.flaticon.com/512/1265/1265529.png&imgrefurl=https://www.flaticon.com/free-icon/database_1265529&tbnid=D-7EuKDz9R2fuM&vet=1&docid=JihU-JzpCwHkOM&w=512&h=512&itg=1&hl=en-US&source=sh/x/im"> 
-   <ul> <li>
-Clone this repository into your system. <br>
-      ##### git clone https://github.com/Shailly0502/bob-Tech_Diwane.git </li>
-  
+   <ul> 
+      <li> Clone this repository into your system. <br>
+      git clone https://github.com/Shailly0502/bob-Tech_Diwane.git </li>
       <li> After cloning, inside source folder ,compile and run all files except main.py file. </li>
 <li>  After that, run main.py file where it will ask to give path of the image of cheque on terminal so enter the path of image. </li> </ul>
 
