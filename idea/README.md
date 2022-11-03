@@ -22,18 +22,18 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 
 ### Contents
 * <a href="#1"> Demo Vedio </a>
-* Workflow
-* Database
-* Features
-* How to use our code?
-* Contributors
+* <a href="#2"> Workflow </a>
+* <a href="#3"> Database </a>
+* <a href="#4"> Features </a>
+* <a href="#5"> How to use our code? </a>
+* <a href="#6"> Contributors </a>
 
 
 ### Demo Video <a id="1"> 
 
 </a>
 
-### Workflow
+### Workflow <a id="2">
 
 * A cheque image is taken as an input & scanned. Then this scanned image is transformed into many different small part where every part contain seperate useful information like signature,amount,account number,payee name,bank name,etc. 
 * These parts are extracted by drawing boxes on those parts of the scanned cheque image that contain useful information, with help of __OpenCV__ and __Geometry.__
@@ -75,8 +75,10 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 ![cheque verification](https://github.com/Shailly0502/Tech-Diwane/blob/69f23f6342bee3c180b161ec4146ce7174276da8/astha.png)
 
 #### _Diagrametic Representation of Complete Workflow_
+  
+  </a>
 
-### Database
+### Database <a id="3">
 
 Information of different payers are stored in the database. 
 It includes:
@@ -87,8 +89,10 @@ It includes:
 * Signature Image
 
 ![database image](https://github.com/Shailly0502/Tech-Diwane/blob/b4fef312819a8182b7e3c97a19e105d2d96ccf4f/database.png)
+  
+  </a>
 
-### Features
+### Features <a id="4">
 
 * Supports Multilingual _(Hindi,English)_
 * MICR Verification.
@@ -97,8 +101,10 @@ It includes:
 * Reduce Human Efforts _(By automating process of verification and data updation after processing)
 * Reduce Processing time _(Machine take less time than humans so it fastens the cheque processing time )
 * Detecting Potential Frauds _(Through verification processing)_
+  
+  </a>
 
-### How to use our code?
+### How to use our code? <a id="5">
 
 1. Clone this repository into your system. 
    ##### git clone https://github.com/Shailly0502/bob-Tech_Diwane.git
@@ -106,11 +112,13 @@ It includes:
 2. After cloning, inside source folder ,compile and run all files except main.py file.
 3. After that, run main.py file where it will ask to give path of the image of cheque on terminal so enter the path of image.
 
+</a>
 
-
-## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contributors
+## ![Astha Goel](https://github.com/Shailly0502/Tech-Diwane/blob/53fcb5541b217690c2a02b5b561e2807928a3f96/l.png) Contributors <a id="6">
 
 <a href=""> Anubhav Yadav </a> <br>
 <a href="https://www.linkedin.com/in/shailly-r-78562a212"> Shailly Raj </a> <br>
  <a href ="https://www.linkedin.com/in/amisha-s-a56329200"> Amisha Singh </a> <br>
 <a href="https://www.linkedin.com/in/goel-astha"> Astha Goel
+  
+  </a>
