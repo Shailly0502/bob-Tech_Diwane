@@ -93,8 +93,8 @@ __Useful information includes:__   _Payee Name, Amount in words, Amount in numbe
 Information of different payers are stored in the database. 
 It includes:
    <ul> <li> Cheque ID </li>
-      <li>  Account Number </li> </p>
-    <li> MICR </li>
+      <li>  Account Number </li> 
+      <li> MICR </li> </p>
    <li> Current Amount </li>
  <li> Signature Image </li> </ul>
 
