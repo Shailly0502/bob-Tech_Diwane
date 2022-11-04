@@ -116,7 +116,8 @@ It includes:
 ## Features <a id="8">
 
    <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/c782ca5a86027019f1d2ae484e0fdac4afe6c1e3/features.webp">  
-   <ul> <li> Supports Multilingual <i> (Hindi,English)</i> </li>
+   <ul> <li> Back of the Cheque is also proposed </li>
+   <li> Supports Multilingual <i> (Hindi,English)</i> </li>
       <li> MICR Verification </li>
 <li> Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque. </li>
       <li> Checks if a transaction is NEFT or RTGS(Transaction type detection) </li>
