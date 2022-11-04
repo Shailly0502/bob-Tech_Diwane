@@ -4,27 +4,14 @@
 ![image](https://github.com/Shailly0502/Tech-Diwane/blob/5e9464e1145fa5ce5c6af266c36b0efb3198d7fa/activestatus.svg) ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![micro](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Bank of Baroda](https://github.com/Shailly0502/Tech-Diwane/blob/1d0c3ceafcb5ef858c117ddff4241770deaa5d2b/Bank%20of%20Baroda-Hackathon-orange.svg)![TechGig](https://github.com/Shailly0502/Tech-Diwane/blob/23028a580b78736f658e260fa1002a29068292ed/techgig.svg)  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)![Deep Learning](https://github.com/Shailly0502/Tech-Diwane/blob/2d21b9fb791ddb4a8f74c0e65e394b6a568c0a6d/Deep-Learning-yellow.svg)![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Contributor](https://github.com/Shailly0502/Tech-Diwane/blob/cac5cd0b80f2648c84d53b58a081daacdf7bed2f/Tech%20Diwane-4-Green.svg) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ### _A solution is provided for the Problem Statement titled as Automated Cheque Processing,in Bank of Baroda Hackathon 2022 hosted on TechGig._
 
-# Provided Problem Statement(Automated Cheque Processing)
-
-Bank handles large volumes of cheques in the clearing process. The process involves many technical verifications including signature verification. Some of these steps are manual and require human intervention to complete the process. The current process requires the high human capital deployment and longer processing time.
-
-# Expected Solution
-
-Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities for automation and doing technical and signature verification of the cheques.
-* Automation of the clearing process using AI/ML/ICR/OCR techniques
-* Automatic Data Entry & Technical verification
-* Signature Verification
-* Support Multilingual
-* Reduce Human Efforts
-* Reduce Processing time
-* Detecting Potential Frauds
-
-# Proposed Solution
 
 ## Contents
 
 <img align="right" width="100" height="100" src="https://github.com/Shailly0502/Tech-Diwane/blob/c782ca5a86027019f1d2ae484e0fdac4afe6c1e3/content.webp">  
-<ul> 
+<ul>  
+   <li> <a href="#11"> Provided Problem Statement(Automated Cheque Processing) </a> </li>
+   <li> <a href="#12"> Expected Solution </a> </li>
+   <li> Proposed Solution </li>
    <li> <a href="#1"> Demo Vedio </a> </li>
    <li>  Workflow </li>
    <ul> <li>  <a href="#2"> Input & Transformation </a> </li>
@@ -36,6 +23,29 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
    <li> <a href="#9"> How to use our code? </a> </li>
 <li> <a href="#10"> Contributors </a> </li>
    </ul>
+
+
+
+<a id="11">
+# Provided Problem Statement(Automated Cheque Processing)
+
+Bank handles large volumes of cheques in the clearing process. The process involves many technical verifications including signature verification. Some of these steps are manual and require human intervention to complete the process. The current process requires the high human capital deployment and longer processing time.
+
+</a>
+<a id="12">
+# Expected Solution
+
+Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities for automation and doing technical and signature verification of the cheques.
+* Automation of the clearing process using AI/ML/ICR/OCR techniques
+* Automatic Data Entry & Technical verification
+* Signature Verification
+* Support Multilingual
+* Reduce Human Efforts
+* Reduce Processing time
+* Detecting Potential Frauds
+</a>
+
+# Proposed Solution
 
 
 ## Demo Video <a id="1"> 
