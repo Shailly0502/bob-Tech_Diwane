@@ -21,19 +21,15 @@
    <li> <a href="#7"> Database </a> </li>
    <li> <a href="#8"> Features </a> </li>
    <li> <a href="#9"> How to use our code? </a> </li>
-<li> <a href="#10"> Contributors </a> </li>
-   </ul>
-
-
-
-<a id="11">
-# Provided Problem Statement(Automated Cheque Processing)
+<li> <a href="#10"> Contributors </a> </li> </ul>
+   
+# Provided Problem Statement(Automated Cheque Processing)<a id="11">
 
 Bank handles large volumes of cheques in the clearing process. The process involves many technical verifications including signature verification. Some of these steps are manual and require human intervention to complete the process. The current process requires the high human capital deployment and longer processing time.
 
 </a>
-<a id="12">
-# Expected Solution
+
+# Expected Solution<a id="12">
 
 Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities for automation and doing technical and signature verification of the cheques.
 * Automation of the clearing process using AI/ML/ICR/OCR techniques
