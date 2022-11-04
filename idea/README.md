@@ -45,7 +45,7 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 
 
 ## Demo Video <a id="1"> 
-
+ 20 second short vedio
 </a>
 
 ## Workflow 
