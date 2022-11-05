@@ -120,6 +120,7 @@ It includes:
    <ul> <li> Back of the Cheque is also proposed </li>
    <li> Supports Multilingual <i> (Hindi,English)</i> </li>
       <li> MICR Verification </li>
+      <li> Azure API(named as Azure database for MySQL) is used for database connectivity</li>
 <li> Checks the correctiveness of cheque information by matching amount in words match with amount in number so as to ensure correctiveness of mentioned information of cheque. </li>
       <li> Checks if a transaction is NEFT or RTGS(Transaction type detection) </li>
 <li> Reduce Human Efforts <i> (By automating process of verification and data updation after processing)</i> </li>
