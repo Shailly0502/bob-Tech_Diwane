@@ -14,8 +14,7 @@
    <li> <a href="#11"> Provided Problem Statement(Automated Cheque Processing) </a> </li>
    <li> <a href="#12"> Expected Solution </a> </li>
    <li> Proposed Solution </li>
-   <li> <a href="#1"> Short insight of practical Implementation  </a> </li>
-   <li>  Workflow </li>
+   <li>  Workflow </li> 
    <ul> <li>  <a href="#2"> Input & Transformation </a> </li>
       <li> <a href="#3"> Extraction </a>  </li>
       <li> <a href="#4">Verification </a> </li>
@@ -44,11 +43,6 @@ Using rule-based and AI/ML/ICR/ OCR (Optical Character Recognition) capabilities
 </a>
 
 # Proposed Solution
-
-
-## <a id="1"> Short insight of practical Implementation 
- ![watch the video](https://github.com/Shailly0502/Tech-Diwane/blob/feb6a68d0cbb152081572fd78603db576f2a82b8/WhatsApp%20Video%202022-11-06%20at%2011.24.19%20PM%20(1).mp4)
-</a>
 
 ## Workflow 
 
