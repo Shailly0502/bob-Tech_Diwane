@@ -14,14 +14,14 @@
    <li> <a href="#11"> Provided Problem Statement(Automated Cheque Processing) </a> </li>
    <li> <a href="#12"> Expected Solution </a> </li>
    <li> Proposed Solution </li>
-   <li>  Workflow </li> 
+   <ul> <li>  Workflow </li> 
    <ul> <li>  <a href="#2"> Input & Transformation </a> </li>
       <li> <a href="#3"> Extraction </a>  </li>
       <li> <a href="#4">Verification </a> </li>
       <li> <a href="#5"> Processing & Diagrametic Representation of Complete Workflow </a> </li> </ul>
    <li> <a href="#7"> Database </a> </li>
-   <li> <a href="#8"> Features </a> </li>
-   <li> <a href="#9"> How to use our code? </a> </li>
+      <li> <a href="#8"> Features </a> </li> </ul>
+   <li> <a href="#9"> How to use our code? </a> </li> 
 <li> <a href="#10"> Contributors </a> </li> </ul>
    
 # Provided Problem Statement(Automated Cheque Processing)<a id="11">
